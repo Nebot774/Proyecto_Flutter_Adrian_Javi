@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "642353702702",
+    "project_id": "proyecto-flutter-adrian-javi",
+    "storage_bucket": "proyecto-flutter-adrian-javi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642353702702:android:001472e55f5b71385cfcbf",
+        "android_client_info": {
+          "package_name": "com.example.sprint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNYWMWkz3v-N6fJSiAkGY1fYOmXPZGPy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
